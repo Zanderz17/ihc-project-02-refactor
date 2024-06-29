@@ -14,6 +14,6 @@
 - RF-salas
   - Drive, rf-salas: https://drive.google.com/file/d/1ii15xzQ_hfRiYPHgPDeD0VIQ-EMGdpRQ/view?usp=drive_link
 
-### Entregable 3 (23/06/2024)
+### Entregable 3 (30/06/2024)
 - RF005
   - Drive, RF005: https://drive.google.com/file/d/1xOmK0Qm3TKCzaZmLnFyERLiYai5aZyks/view?usp=sharing
