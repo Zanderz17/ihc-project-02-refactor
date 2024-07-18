@@ -1,5 +1,14 @@
 # ihc-project-02
 
+## Instalación y Despliegue
+- El proyecto fue compilado y puede ser probado a través de la ejecución del siguiente APK desde un dispositivo Oculus Meta Quest 2
+  - APK: https://drive.google.com/file/d/1Z4pvcMlNPaNxqRjFa5NZtsI4NijBn7u7/view?usp=sharing  
+
+- Sin embargo, de desearse acceder al proyecto y realizarse algunos cambios o mejoras, deberá seguirse los siguientes pasos:
+  - Clonar el repositorio
+  - Abrir Unity
+  - Iniciar un proyecto a partir de un repositorio
+
 ## Evidencias de cumplimiento del entregables
 
 ### Entregable 1 (16/06/2024)
